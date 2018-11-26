@@ -23,7 +23,7 @@
     "dependencies": {
         "merge": "*",
         "temp": "*",
-        "tail": "*",
+        "tail": "1.2.3",
         "xml-simple": "*",
         "q": "*"
     }
